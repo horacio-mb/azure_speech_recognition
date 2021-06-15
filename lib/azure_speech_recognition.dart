@@ -20,7 +20,7 @@ class AzureSpeechRecognition {
 
   static String _subKey;
   static String _region;
-  static String _lang = "en-EN";
+  static String _lang = "es-BO";
   static String _languageUnderstandingSubscriptionKey;
   static String _languageUnderstandingServiceRegion;
   static String _languageUnderstandingAppId;
